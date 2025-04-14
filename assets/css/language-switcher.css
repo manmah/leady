@@ -1,0 +1,44 @@
+.language-selector {
+    margin-left: 15px;
+}
+
+.language-selector select {
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid rgba(255,255,255,0.3);
+    padding: 8px 15px;
+    border-radius: 25px;
+    font-size: 14px;
+    transition: all 0.3s;
+}
+
+.language-selector select:hover {
+    background-color: rgba(255,255,255,0.1);
+    border-color: rgba(255,255,255,0.5);
+}
+
+.language-selector select:focus {
+    outline: none;
+    border-color: rgba(255,255,255,0.7);
+}
+
+.language-selector select option {
+    background-color: #1e1e1e;
+    color: #fff;
+}
+
+/* Adjust for sticky header */
+.header-sticky .language-selector select {
+    color: #1e1e1e;
+    border-color: rgba(0,0,0,0.3);
+}
+
+.header-sticky .language-selector select:hover {
+    background-color: rgba(0,0,0,0.05);
+    border-color: rgba(0,0,0,0.5);
+}
+
+.header-sticky .language-selector select option {
+    background-color: #fff;
+    color: #1e1e1e;
+}
