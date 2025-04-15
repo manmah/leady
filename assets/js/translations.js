@@ -13,7 +13,7 @@ const translations = {
         "financial_q2": "You've just taken the first step for yourself and arrived on this page.",
         "financial_q3": "Now you're probably curious about what we can do for you? Or rather, what you can do for yourself? And for world peace?",
         "financial_q4": "WE ARE THE REVOLUTION WE'VE BEEN WAITING FOR ❤️",
-        "join_us": "Join Us",
+        "join_us": "Get More Info",
 
         // About Section
         "about_heading": "Amazing Opportunity To Build New Life for you",
@@ -57,7 +57,7 @@ const translations = {
         "financial_q2": "Du hast gerade den ersten Schritt fuer Dich getan, und bist auf diese Seite gekommen",
         "financial_q3": "Nun bist Du sicherlich neugierig, was wir fuer Dich tun koennen? Bzw. Du fuer Dich selbst? Und fuer den Weltfrieden?",
         "financial_q4": "WIR SIND DIE REVOLUTION, AUF DIE WIR GEWARTET HABEN  ❤️",
-        "join_us": "Begleiten Sie uns",
+        "join_us": "Weitere Informationen",
 
         // About Section
         "about_heading": "Fantastische Möglichkeit, ein neues Leben aufzubauen",
