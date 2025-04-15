@@ -1,0 +1,49 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+}
+
+h2 {
+    color: #b30000;
+    margin-top: 2rem;
+}
+
+h3 {
+    color: #5a005a;
+    margin-top: 1.5rem;
+}
+
+ul {
+    margin-left: 1.5rem;
+    padding-left: 1rem;
+}
+
+ul li {
+    margin-bottom: 0.6rem;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.video {
+    background-color: #f0f0f0;
+    padding: 1rem;
+    margin: 1rem 0;
+    text-align: center;
+    border-left: 5px solid #b30000;
+}
+
+.highlight {
+    background-color: #ffffcc;
+    padding: 1rem;
+    border: 1px dashed #cccc00;
+    margin: 1rem 0;
+}
