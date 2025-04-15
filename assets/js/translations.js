@@ -9,11 +9,11 @@ const translations = {
         "menu": "Menu",
 
         // Header Questions
-        "financial_q1": "Are You Ready to Take Control of Your Financial Future?",
-        "financial_q2": "Do You Dream of Living Without Money Stress?",
-        "financial_q3": "Want to Build Wealth Without Sacrificing Your Lifestyle?",
-        "financial_q4": "Is Financial Freedom Something You're Working Toward?",
-        "join_us": "Then Join Us",
+        "financial_q1": "Welcome to the world's largest change community!",
+        "financial_q2": "You've just taken the first step for yourself and arrived on this page.",
+        "financial_q3": "Now you're probably curious about what we can do for you? Or rather, what you can do for yourself? And for world peace?",
+        "financial_q4": "WE ARE THE REVOLUTION WE'VE BEEN WAITING FOR ❤️",
+        "join_us": "Join Us",
 
         // About Section
         "about_heading": "Amazing Opportunity To Build New Life for you",
@@ -53,11 +53,11 @@ const translations = {
         "menu": "Menü",
 
         // Header Questions
-        "financial_q1": "Sind Sie bereit, die Kontrolle über Ihre finanzielle Zukunft zu übernehmen?",
-        "financial_q2": "Träumen Sie von einem Leben ohne Geldsorgen?",
-        "financial_q3": "Möchten Sie Vermögen aufbauen, ohne Ihren Lebensstil zu opfern?",
-        "financial_q4": "Ist finanzielle Freiheit etwas, worauf Sie hinarbeiten?",
-        "join_us": "Dann machen Sie mit",
+        "financial_q1": "Willkommen in der groessten Veraenderungs-Community der Welt!",
+        "financial_q2": "Du hast gerade den ersten Schritt fuer Dich getan, und bist auf diese Seite gekommen",
+        "financial_q3": "Nun bist Du sicherlich neugierig, was wir fuer Dich tun koennen? Bzw. Du fuer Dich selbst? Und fuer den Weltfrieden?",
+        "financial_q4": "WIR SIND DIE REVOLUTION, AUF DIE WIR GEWARTET HABEN  ❤️",
+        "join_us": "Begleiten Sie uns",
 
         // About Section
         "about_heading": "Fantastische Möglichkeit, ein neues Leben aufzubauen",
