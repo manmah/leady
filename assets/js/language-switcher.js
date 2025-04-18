@@ -1,5 +1,5 @@
 // Default language
-let currentLang = 'en';
+let currentLang = 'de';
 
 // Function to change the language
 function changeLanguage(lang) {

@@ -25,8 +25,8 @@ const translations = {
         "skills_desc": "Learn more about yourself and discover the best version of you",
         "workflow_title": "Multi Workflow Idea",
         "workflow_desc": "How Leady Idea works",
-        "community_title": "Join Our Facebook Community",
-        "community_desc": "Meet Leady members and share experiences",
+        "community_title": "Join Our Community",
+        "community_desc": "Join Leady members and share experiences",
         "read_more": "Read More",
 
         // Reviews Section
@@ -69,7 +69,7 @@ const translations = {
         "skills_desc": "Lernen Sie sich selbst besser kennen und entdecken Sie die beste Version von sich selbst",
         "workflow_title": "Multi-Workflow-Idee",
         "workflow_desc": "Wie Leady Idea funktioniert",
-        "community_title": "Treten Sie unserer Facebook-Community bei",
+        "community_title": "Treten Sie unserer Community bei",
         "community_desc": "Treffen Sie Leady-Mitglieder und teilen Sie Erfahrungen",
         "read_more": "Mehr lesen",
 
