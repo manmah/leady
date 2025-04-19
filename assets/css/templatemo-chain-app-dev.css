@@ -44,6 +44,48 @@ figure, header, nav, section, article, aside, footer, figcaption {
 }
 
 
+.purple-bg{
+  background: #CBC3E3; padding: 5px 10px; border-radius: 15px;
+  display: inline-block; box-shadow: 0 0 10px rgba(131, 187, 222, 0.3);
+  margin-bottom: 10px;
+}
+.green-bg{
+  background: #adefad; padding: 5px 10px; border-radius: 15px;
+  display: inline-block; box-shadow: 0 0 10px rgba(135, 206, 250, 0.3);
+  margin-bottom: 10px;
+}
+
+.purple-box{
+  background: #fafcfa; padding: 5px 10px; border-radius: 15px;
+  display: inline-block; box-shadow: 0 0 10px rgba(135, 206, 250, 0.3);
+  margin-bottom: 10px;
+  font-family: "gardenia";
+  margin-top: 20px;
+  background-size: cover;
+  background-image: url(../images/service-bg.jpg);
+}
+
+.purple-txt{
+  background: #fafcfa; padding: 5px 10px; border-radius: 15px;
+  display: inline-block; box-shadow: 0 0 10px rgba(135, 206, 250, 0.3);
+  margin-bottom: 10px;
+  color: #6f42c1;
+  font-family: "gardenia";
+  font-style: italic;
+}
+
+.green-txt{
+  background: #fafcfa;
+  border-radius: 15px;
+  display: inline-block; box-shadow: 0 0 10px rgba(135, 206, 250, 0.3);
+
+  color: #42c16e;
+  font-family: "gardenia";
+
+  font-style: italic;
+}
+
+
 .leady-container {
   font-family: Arial, sans-serif !important;
   background-color: #fff !important;
@@ -63,8 +105,9 @@ figure, header, nav, section, article, aside, footer, figcaption {
 }
 
 .leady-container .heart {
-  color: #c00 !important;
+  color: #931af5 !important;
   font-size: 1.5em !important;
+  font-family: Bold;
 }
 
 .leady-container ul {
@@ -1122,6 +1165,9 @@ Services Style
   border-radius: 10px;
   border-top-right-radius: 50px;
   transition: all .3s;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-image: url(../images/service-bg.jpg);
 }
 
 .service-item .icon {
