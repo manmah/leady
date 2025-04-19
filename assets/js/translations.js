@@ -5,7 +5,7 @@ const translations = {
         "nav_about": "About",
         "nav_services": "Services",
         "nav_reviews": "Reviews",
-        "nav_newsletter": "Newsletter",
+        "nav_contact_us": "Contact Us",
         "menu": "Menu",
 
         // Header Questions
@@ -49,7 +49,7 @@ const translations = {
         "nav_about": "Über uns",
         "nav_services": "Dienstleistungen",
         "nav_reviews": "Bewertungen",
-        "nav_newsletter": "Newsletter",
+        "nav_contact_us": "Kontakt",
         "menu": "Menü",
 
         // Header Questions

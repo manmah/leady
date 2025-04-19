@@ -43,6 +43,68 @@ figure, header, nav, section, article, aside, footer, figcaption {
   outline: 0;
 }
 
+
+.leady-container {
+  font-family: Arial, sans-serif !important;
+  background-color: #fff !important;
+  color: #333 !important;
+  padding: 2rem !important;
+  max-width: 900px;
+  margin: auto !important;
+  line-height: 1.6 !important;
+  text-align: left !important;
+}
+
+.leady-container h1 {
+  color: #c00 !important;
+  font-size: 2em !important;
+  margin-bottom: 1rem !important;
+  text-align: left !important;
+}
+
+.leady-container .heart {
+  color: #c00 !important;
+  font-size: 1.5em !important;
+}
+
+.leady-container ul {
+  list-style-type: "• " !important;
+  padding-left: 1.5rem !important;
+}
+
+.leady-container strong {
+  display: block !important;
+  margin-top: 2rem !important;
+  font-size: 1.2em !important;
+}
+
+.leady-container .video {
+  background-color: #f9f9f9 !important;
+  padding: 1rem !important;
+  border-left: 4px solid #ccc !important;
+  margin-top: 2rem !important;
+}
+
+.leady-container a {
+  color: #0077cc !important;
+  text-decoration: underline !important;
+}
+
+.leady-container code {
+  background-color: #eee !important;
+  padding: 0.2rem 0.4rem !important;
+  border-radius: 4px !important;
+}
+
+.leady-container .agenda {
+  margin-top: 2rem !important;
+  padding-left: 1rem !important;
+}
+
+.leady-container .agenda strong {
+  margin-top: 1rem !important;
+}
+
 .financial-question {
   color: #ffffff;
   text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
