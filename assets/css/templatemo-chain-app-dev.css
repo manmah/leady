@@ -61,6 +61,7 @@ figure, header, nav, section, article, aside, footer, figcaption {
   margin-bottom: 10px;
   font-family: "gardenia";
   margin-top: 20px;
+  font-size: 18px;
   background-size: cover;
   background-image: url(../images/service-bg.jpg);
 }
@@ -117,7 +118,7 @@ figure, header, nav, section, article, aside, footer, figcaption {
 
 .leady-container strong {
   display: block !important;
-  margin-top: 2rem !important;
+  margin-top: 1rem !important;
   font-size: 1.2em !important;
 }
 
@@ -1734,12 +1735,13 @@ footer .section-heading {
   margin-bottom: 45px;
 }
 
-footer .section-heading h4 {
+footer .section-heading p {
   line-height: 45px;
   color: #fff;
   margin-left: 13%;
   margin-right: 13%;
   text-align: center;
+  font-size: 20px;
 }
 
 footer #search {
@@ -2238,7 +2240,7 @@ responsive
   .the-clients .naccs .menu div {
     text-align: center;
   }
-  footer .section-heading h4 {
+  footer .section-heading p {
     color: #2a2a2a;
   }
   footer #search {
